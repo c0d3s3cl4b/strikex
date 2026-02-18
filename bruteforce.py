@@ -104,7 +104,7 @@ def print_banner():
 {Colors.RESET}
     {Colors.BRIGHT_CYAN}╔══════════════════════════════════════════════════════════════════════════════╗
     ║  {Colors.BRIGHT_YELLOW}⚡ StrikeX — BruteForceX v2.0 {Colors.BRIGHT_CYAN}│ {Colors.WHITE}Web Login Brute Forcer{Colors.BRIGHT_CYAN}              ║
-    ║  {Colors.BRIGHT_MAGENTA}👤 Author: p0is0n3r {Colors.BRIGHT_CYAN}│ {Colors.WHITE}Educational & Authorized Testing Only{Colors.BRIGHT_CYAN}              ║
+    ║  {Colors.BRIGHT_MAGENTA}👤 Author: c0d3s3cl4b {Colors.BRIGHT_CYAN}│ {Colors.WHITE}Educational & Authorized Testing Only{Colors.BRIGHT_CYAN}              ║
     ╚══════════════════════════════════════════════════════════════════════════════╝{Colors.RESET}
 """
     print(banner)

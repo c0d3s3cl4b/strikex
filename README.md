@@ -56,8 +56,8 @@
 
 ```bash
 # Repoyu klonla
-git clone https://github.com/codeseclab/strikex.git
-cd StrikeX
+git clone https://github.com/c0d3s3cl4b/strikex.git
+cd strikex
 
 # Bağımlılıkları yükle
 pip install -r requirements.txt
@@ -182,7 +182,7 @@ StrikeX/
 
 ## 👤 Geliştirici
 
-**p0is0n3r404** — Siber Güvenlik & Penetrasyon Testi
+**c0d3s3cl4b** — Siber Güvenlik & Penetrasyon Testi
 
 ---
 
