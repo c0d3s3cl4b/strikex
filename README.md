@@ -154,16 +154,6 @@ python directories.py
 
 ---
 
-## 📁 Proje Yapısı
-
-```
-StrikeX/
-├── bruteforce.py       # Web login brute force aracı
-├── directories.py      # Dizin tarama aracı
-├── passwords.txt       # Parola sözlüğü (~450 parola)
-├── requirements.txt    # Python bağımlılıkları
-└── README.md           # Bu dosya
-```
 
 ---
 
